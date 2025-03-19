@@ -1,5 +1,5 @@
 local games = {
-    ["4483381587"] = "https://raw.githubusercontent.com/Smecks899/SussyLoader-new/refs/heads/main/Chaos(Remastered).lua"
+    ["15437737400"] = "https://raw.githubusercontent.com/Smecks899/SussyLoader-new/refs/heads/main/Chaos(Remastered).lua"
 }
 local placeId = tostring(game.PlaceId)
 
